@@ -1,4 +1,4 @@
-# 금통위 의사록 텍스트 마이닝 프로젝트
+## Deciphering Monetary Policy Minutes with NLP (논문 구현 프로젝트)
 
 ## 프로젝트 소개
 
